@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @anttirastas
+- 👀 I’m interested in web development as well as making the world a more efficient place through technology.
